@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class SimpleBot {
     final static Scanner scanner = new Scanner(System.in);
-
+    //какой-то очень простой бот
     public static void main(String[] args) {
         greet("Aid", "2018");
         remindName();
